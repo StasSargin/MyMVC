@@ -4,5 +4,5 @@
     <p><input type="text"></p>
     <p>Пароль</p>
     <p><input type="text"></p>
-    <p><button>Регистрация</button></p>
+    <b><button>Регистрация</button></b>
 </form>
